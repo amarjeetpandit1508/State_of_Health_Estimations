@@ -139,7 +139,7 @@ This will:
 
 <img src="DT/plots/XGBoost_Cell_5.svg" width="400" height="300">
 
-- **MSE:** `0.13%` and **RMSE:** `0.17%`
+- **MAE:** `0.13%` and **RMSE:** `0.17%`
 
 ---
 
@@ -147,7 +147,7 @@ This will:
 
 <img src="DT/plots/XGBoost_Cell_6.svg" width="400" height="300">
 
-- **MSE:** `0.20%` and **RMSE:** `0.39%`
+- **MAE:** `0.20%` and **RMSE:** `0.39%`
 
 ---
 
@@ -155,7 +155,7 @@ This will:
 
 <img src="DT/plots/XGBoost_Cell_7.svg" width="400" height="300">
 
-- **MSE:** `0.10%` and **RMSE:** `0.13%`
+- **MAE:** `0.10%` and **RMSE:** `0.13%`
 
 ---
 
@@ -163,7 +163,7 @@ This will:
 
 <img src="DT/plots/XGBoost_Cell_8.svg" width="400" height="300">
 
-- **MSE:** `0.14%` and **RMSE:** `0.17%`
+- **MAE:** `0.14%` and **RMSE:** `0.17%`
 
 ---
 
