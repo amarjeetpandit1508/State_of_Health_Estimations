@@ -137,45 +137,46 @@ This will:
 
 ### 🔹 XGBoost Cell 5
 
-![Cell 5](DT/plots/XGBoost_Cell_5.png)
+<img src="DT/plots/XGBoost_Cell_5.svg" width="400" height="300">
 
-- **RMSE:** ` %`
+- **MSE:** `0.13%` and **RMSE:** `0.17%`
 
 ---
 
 ### 🔹 XGBoost Cell 6
 
-![Cell 6](DT/plots/XGBoost_Cell_6.png)
+<img src="DT/plots/XGBoost_Cell_6.svg" width="400" height="300">
 
-- **RMSE:** ` %`
+- **MSE:** `0.20%` and **RMSE:** `0.39%`
 
 ---
 
 ### 🔹 XGBoost Cell 7
 
-![Cell 7](DT/plots/XGBoost_Cell_7.png)
+<img src="DT/plots/XGBoost_Cell_7.svg" width="400" height="300">
 
-- **RMSE:** ` %`
+- **MSE:** `0.10%` and **RMSE:** `0.13%`
 
 ---
 
 ### 🔹 XGBoost Cell 8
 
-![Cell 8](DT/plots/XGBoost_Cell_8.png)
+<img src="DT/plots/XGBoost_Cell_8.svg" width="400" height="300">
 
-- **RMSE:** ` %`
+- **MSE:** `0.14%` and **RMSE:** `0.17%`
 
 ---
 
 ### Overall MSE and RMSE using LSTM Model
 
-![Metrics of LSTM](RNN/images/LSTM.png)
+<img src="RNN/images/LSTM.png" width="400" height="300">
 
 ---
 
 ### Overall MSE and RMSE using GRU Model
 
-![Metrics of GRU](RNN/images/GRU.png)
+<img src="RNN/images/GRU.png" width="400" height="300">
+
 
 ---
 
